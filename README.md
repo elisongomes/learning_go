@@ -6,6 +6,6 @@ package learning
 import "fmt"
 
 func main()  {
-	fmt.Println("Larning Go Lang")
+	fmt.Println("Learning Go Lang")
 }
 ````
