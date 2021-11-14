@@ -1,4 +1,4 @@
-# Larning Go Lang
+# Learning Go Lang
 
 ````go
 package learning
