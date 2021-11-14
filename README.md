@@ -5,7 +5,7 @@ package learning
 
 import "fmt"
 
-func type2()  {
+func main()  {
 	fmt.Println("Larning Go Lang")
 }
 ````
