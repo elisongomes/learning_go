@@ -1,8 +1,13 @@
+Build
+```shell
+$ go build
+```
+
 Run
-```go
-go run main.go ip --host amazon.com.br
+```shell
+$ ./command-line ip --host google.com
 ```
 Or
-```go
-go run main.go ns --host amazon.com.br
+```shell
+$ ./command-line  ns --host apple.com
 ```
