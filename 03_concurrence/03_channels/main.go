@@ -6,8 +6,8 @@ import (
 )
 
 func main() {
-	ch1 := make(chan string)
-	ch2 := make(chan string)
+	ch1, ch2 := make(chan string), make(chan string)
+
 	go writeText("Hello world!", ch1)
 	go writeText("Go lang is funny!", ch2)
 
